@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\denis\Desktop\Obscurum\Electronics\Obscurum-MB_1a\Obscurum-MB_1a.PcbDoc
+Date         : 22.04.2024
+Time         : 23:22:37
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 100mmx100mm
+    Components on board, 144
+count : 2
