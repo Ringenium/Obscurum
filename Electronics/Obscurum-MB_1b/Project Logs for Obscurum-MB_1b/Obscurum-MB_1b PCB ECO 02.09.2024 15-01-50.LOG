@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=SCL_MEMS_SPI1 Pin=DD3-1
+Added Pin To Net: NetName=CS_MEMS_SPI1 Pin=DD3-2
+Added Pin To Net: NetName=SDO_MEMS_SPI1 Pin=DD3-3
+Added Pin To Net: NetName=SDI_MEMS_SPI1 Pin=DD3-4
+Added Pin To Net: NetName=GND Pin=DD3-5
+Added Pin To Net: NetName=GND Pin=DD3-6
+Added Pin To Net: NetName=GND Pin=DD3-7
+Added Pin To Net: NetName=GND Pin=DD3-8
+Added Pin To Net: NetName=3V3 Pin=DD3-9
+Added Pin To Net: NetName=3V3 Pin=DD3-10
+Added Pin To Net: NetName=INT2 Pin=DD3-11
+Added Pin To Net: NetName=INT1 Pin=DD3-12
+Added Member To Class: ClassName=Accelerometer Member=Component DD3 LIS2DH12TR

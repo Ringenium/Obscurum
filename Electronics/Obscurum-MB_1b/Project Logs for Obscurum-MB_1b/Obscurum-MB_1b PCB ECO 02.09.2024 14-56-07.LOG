@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=5V_in Pin=R1-2
+Removed Member From Class: ClassName=PWR_MCU Member=R4
+Removed Member From Class: ClassName=Accelerometer Member=TP16
+Add Component: Footprint Not Found 12-LGA
+Add Pin To Net: Unknown Pin: Pin DD3-1
+Add Pin To Net: Unknown Pin: Pin DD3-2
+Add Pin To Net: Unknown Pin: Pin DD3-3
+Add Pin To Net: Unknown Pin: Pin DD3-4
+Add Pin To Net: Unknown Pin: Pin DD3-5
+Add Pin To Net: Unknown Pin: Pin DD3-6
+Add Pin To Net: Unknown Pin: Pin DD3-7
+Add Pin To Net: Unknown Pin: Pin DD3-8
+Add Pin To Net: Unknown Pin: Pin DD3-9
+Add Pin To Net: Unknown Pin: Pin DD3-10
+Add Pin To Net: Unknown Pin: Pin DD3-11
+Add Pin To Net: Unknown Pin: Pin DD3-12
+Added Member To Class: ClassName=PWR_MCU Member=Component C2 Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component C4 0603   20 ïÔ ± 10 % X7R 10Â
+Added Member To Class: ClassName=PWR_MCU Member=Component C5 0603   1 ìêÔ ± 10 % X7R 16Â
+Added Member To Class: ClassName=PWR_MCU Member=Component C6 Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component C7 Ceramic capacitor, 4.7u, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Accelerometer Member=Component C9 Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Accelerometer Member=Component C11 Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component DD2 STM32G031G8U6
+Add Class Member: Failed to add class member : Component DD3 LIS2DH12TR
+Added Member To Class: ClassName=PWR_MCU Member=Component R3 0603 62 Îì ± 5 %
+Added Member To Class: ClassName=LED Member=Component R5 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R9 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R11 Resistor film, 100, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R15 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R17 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R21 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R24 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R25 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R28 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R30 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R34 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R35 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R36 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R37 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R38 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R39 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R40 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R42 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R43 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R44 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R45 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R47 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component TP3 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP5 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP7 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP9 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP10 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP11 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP12 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP13 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP14 Testpoint_HS1mm
+Added Member To Class: ClassName=PWR_MCU Member=Component TP15 Testpoint_HS1mm
+Added Member To Class: ClassName=Accelerometer Member=Component TP18 Testpoint_HS1mm
+Added Member To Class: ClassName=Accelerometer Member=Component TP19 Testpoint_HS1mm
+Added Member To Class: ClassName=Accelerometer Member=Component TP21 Testpoint_HS1mm
+Added Member To Class: ClassName=Accelerometer Member=Component TP23 Testpoint_HS1mm
+Added Member To Class: ClassName=LED Member=Component VD2 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD4 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD8 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD12 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD16 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD17 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD18 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD19 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD20 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD22 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD23 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD24 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD26 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD27 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD28 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD30 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD31 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD32 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD35 LED, Green, *, *, *, -55...+150°C
