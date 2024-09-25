@@ -134,8 +134,69 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNCWNHBR
 
+[Document6]
+DocumentPath=Obscurum-MB_1b.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Obscurum-MB_1a\Design Rule Check - Obscurum-MB_1a.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Design Rule Check - Obscurum-MB_1b.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.TXT
 DItemRevisionGUID=
 
 [Configuration1]

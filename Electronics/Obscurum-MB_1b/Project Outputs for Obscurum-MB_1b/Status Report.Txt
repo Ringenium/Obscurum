@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Obscurum-MB_1b.PcbDoc]
+   Generated File[Obscurum-MB_1b.TXT]
+   Generated File[Obscurum-MB_1b.LDP]
+   Generated File[Obscurum-MB_1b.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:13:05 On 10.09.2024

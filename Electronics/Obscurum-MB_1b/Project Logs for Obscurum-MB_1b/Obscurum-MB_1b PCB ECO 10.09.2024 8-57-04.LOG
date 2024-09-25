@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TIM1_PWM_CH2 Pin=R10-1
+Removed Pin From Net: NetName=TIM1_PWM_CH4 Pin=R32-1
+Added Pin To Net: NetName=TIM1_PWM_CH4 Pin=R10-1
+Added Pin To Net: NetName=TIM1_PWM_CH2 Pin=R32-1

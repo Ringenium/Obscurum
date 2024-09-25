@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=TP1-1
+Removed Pin From Net: NetName=INT1 Pin=TP2-1
+Removed Pin From Net: NetName=GND Pin=TP3-1
+Removed Pin From Net: NetName=INT2 Pin=TP4-1
+Removed Pin From Net: NetName=3V3 Pin=TP5-1
+Removed Pin From Net: NetName=5V_in Pin=TP6-1
+Removed Member From Class: ClassName=LED Member=R2
+Removed Member From Class: ClassName=PWR_MCU Member=TP1
+Removed Member From Class: ClassName=PWR_MCU Member=TP2
+Removed Member From Class: ClassName=PWR_MCU Member=TP3
+Removed Member From Class: ClassName=PWR_MCU Member=TP4
+Removed Member From Class: ClassName=PWR_MCU Member=TP5
+Removed Member From Class: ClassName=PWR_MCU Member=TP6
+Added Member To Class: ClassName=LED Member=Component R3 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R7 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R10 Resistor film, 100, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R14 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R16 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R20 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R23 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R27 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R33 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R34 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R38 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R39 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R40 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R42 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R43 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R44 Resistor film, 50, , 0603, 0.1W, -55...+125°C
