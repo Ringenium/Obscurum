@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Obscurum-MB_1b.PcbDoc]
-   Generated File[Obscurum-MB_1b.TXT]
-   Generated File[Obscurum-MB_1b.LDP]
-   Generated File[Obscurum-MB_1b.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:42:18 On 30.09.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Obscurum-MB_1b.PrjPcb]
+   Generated File[Bill of Materials-Obscurum-MB_1b.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:13:05 On 10.09.2024
+Finished Output Generation At 10:42:21 On 30.09.2024
