@@ -1,0 +1,62 @@
+Removed Member From Class: ClassName=PWR_MCU Member=DD4
+Removed Member From Class: ClassName=PWR_MCU Member=R5
+Removed Member From Class: ClassName=PWR_MCU Member=R10
+Removed Member From Class: ClassName=PWR_MCU Member=VD4
+Removed Member From Class: ClassName=PWR_MCU Member=VD5
+Added Member To Class: ClassName=PWR_MCU Member=Component C1 Ceramic capacitor, 10u, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component C4 Ceramic capacitor, 10u, X7R, ±10%, 50V, 1206, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component DD1 TP4056
+Added Member To Class: ClassName=PWR_MCU Member=Component DD3 K7803MT-1000R
+Added Member To Class: ClassName=PWR_MCU Member=Component R3 Resistor film, 220k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component R4 Resistor film, 1k3, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R6 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R7 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R8 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R9 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R12 Resistor film, 100, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R13 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R15 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R16 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R18 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R19 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R22 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R23 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R26 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R29 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R30 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R31 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R32 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R35 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R36 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R37 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R38 Resistor film, 10k, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R41 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R42 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R45 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R46 Resistor film, 50, , 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=PWR_MCU Member=Component VD1 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=PWR_MCU Member=Component VD2 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD3 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD6 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD7 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD10 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD11 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD14 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD15 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD17 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD18 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD21 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD22 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD25 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD26 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD29 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD30 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD33 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD34 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD36 LED, Green, *, *, *, -55...+150°C
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=2.5mm

@@ -160,42 +160,46 @@ DocumentPath=Project Outputs for Obscurum-MB_1b\Design Rule Check - Obscurum-MB_
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.DRR
+DocumentPath=Project Outputs for Obscurum-MBAKK_1a\Design Rule Check - Obscurum-MBAKK_1a.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBL
+DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBO
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBS
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GM4
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTL
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTO
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTS
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.LDP
+DocumentPath=Project Outputs for Obscurum-MB_1b\Gerber\Obscurum-MB_1b.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Obscurum-MB_1b\NC Drill\Obscurum-MB_1b.TXT
 DItemRevisionGUID=
 
@@ -783,36 +787,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
